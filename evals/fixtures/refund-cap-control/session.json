@@ -1,0 +1,7 @@
+{
+  "chainId": 11155111,
+  "refundToken": "0x768F42455A2D082E23ceeF7d51e5787C82d67a39",
+  "maxRefundExchangeRate": "20000000000",
+  "maxRefundGasOverhead": "500000",
+  "maxRefundAmount": "100000000"
+}

@@ -1,0 +1,22 @@
+{
+  "chainId": 11155111,
+  "intentRoute": {
+    "intentOp": {
+      "elements": [
+        {
+          "mandate": {
+            "qualifier": {
+              "settlementContext": {
+                "gasRefund": {
+                  "token": "0x768F42455A2D082E23ceeF7d51e5787C82d67a39",
+                  "exchangeRate": "2568073614",
+                  "overhead": "7030233700586588655153319389540331249070000"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Public on-chain addresses and synthetic permission identifier used by tests"
+regexTarget = "secret"
+regexes = [
+  '''0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238''',
+  '''0x768F42455A2D082E23ceeF7d51e5787C82d67a39''',
+  '''0xc6df9bfc5e8f90f5890e3126d40a17d90a06591a2f802de2b1464b0b345ac001'''
+]

@@ -1,0 +1,10 @@
+{
+  "chainId": 11155111,
+  "status": "FAILED",
+  "error": {
+    "name": "IntentError",
+    "message": "Intent failed",
+    "errorType": "Unknown",
+    "retryable": false
+  }
+}

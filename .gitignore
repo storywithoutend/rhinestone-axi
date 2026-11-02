@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+.audit/
+evals/results/
+*.log
+!evals/fixtures/credential-log/orchestrator.log
+*.tgz
+.DS_Store
